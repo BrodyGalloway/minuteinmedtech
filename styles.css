@@ -46,6 +46,11 @@ footer {
 .centered-text {
   text-align: center;
 }
+body {
+  background-image: url("3272E433-FE25-45B3-B443-3EE3A5483F2F.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 
 
