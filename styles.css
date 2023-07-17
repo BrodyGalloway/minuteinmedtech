@@ -35,12 +35,11 @@ section {
 
 footer {
   background-color: black;
-  color: white;
+  color: #34CE86;
   padding: 10px;
   text-align: center;
   font-size: 12px;
 }
-.article-list li {
-  margin-bottom: 10px;
-}
+
+
 
