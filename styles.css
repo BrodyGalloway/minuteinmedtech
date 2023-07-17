@@ -34,26 +34,13 @@ section {
 }
 
 footer {
-  background-color: Black;
-  color: Green;
+  background-color: black;
+  color: white;
   padding: 10px;
   text-align: center;
   font-size: 12px;
 }
-
 .article-list li {
   margin-bottom: 10px;
 }
-/* Add your desired CSS styles here */
-body {
-  background-color: black;
-  color: green;
-}
 
-.article-list {
-  margin-top: 50px;
-}
-
-.article-list li {
-  margin-bottom: 10px;
-}
