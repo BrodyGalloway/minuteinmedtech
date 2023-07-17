@@ -43,6 +43,9 @@ footer {
 .article-list li {
   margin-bottom: 20px;
 }
+.centered-text {
+  text-align: center;
+}
 
 
 
