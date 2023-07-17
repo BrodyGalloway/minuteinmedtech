@@ -40,6 +40,10 @@ footer {
   text-align: center;
   font-size: 12px;
 }
+.article-list li {
+  margin-bottom: 20px;
+}
+
 
 
 
